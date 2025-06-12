@@ -41,6 +41,7 @@ python3 LOLBasOutput.py
 This script is intended for educational and research purposes only. Do not use it on systems you do not own or have explicit permission to analyze.
 
 🔗 References
-[LOLBAS Project](https://lolbas-project.github.io/)
-[hijacklibs Project](https://hijacklibs.net/)
+
+- [LOLBAS Project](https://lolbas-project.github.io/)
+- [hijacklibs Project](https://hijacklibs.net/)
 
