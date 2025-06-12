@@ -1,7 +1,4 @@
-# LOLBinFinder
-Find locally available LOLBins 
-
-# 🔍 Find-VulnerableLOLBas
+# 🔍 LOLBinFinder
 
 A PowerShell script that scans for known **LOLBins** or **vulnerable DLLs/executables** on the local system by resolving environment variables and wildcard versions in file paths. Useful for security research, red teaming, or detection engineering.
 
