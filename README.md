@@ -28,13 +28,13 @@ python3 LOLBasOutput.py
 .\Find-VulnerableFiles.ps1 -ListFile "lolbas_paths.txt"
 ```
 
-Optional Parameters:
-Parameter	Description
--ListFile	(Required) Path to file containing the list of file paths
--OutputFile	Path to save results as a CSV
--TextOutputFile	Path to save results as a TXT
--FoundOnly	Show only files that are found
--Help	Display help message
+## Optional Parameters:
+
+- ListFile	(Required) Path to file containing the list of file paths
+- OutputFile	Path to save results as a CSV
+- TextOutputFile	Path to save results as a TXT
+- FoundOnly	Show only files that are found
+- Help	Display help message
 
 
 ⚠️ Disclaimer
